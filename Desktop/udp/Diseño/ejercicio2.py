@@ -1,5 +1,5 @@
 
-
+#busqueda binaria que aparecia en la diapositiva
 def binary_search(A, key):
     pos = -1
     inicio = 0
